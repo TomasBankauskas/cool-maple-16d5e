@@ -12,7 +12,7 @@ sections:
       url: /
       theme: outline
     image:
-      src: /images/fpo-shapes.png
+      src: /images/vadim-bogulov-AWuHrB1oM_o-unsplash.jpg
       alt: Stackbit Shapes
     theme: imgRight
   - type: stats
