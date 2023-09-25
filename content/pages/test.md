@@ -8,7 +8,7 @@ sections:
       And a super compelling supporting paragraph that makes the user
       immediately want to click the button below.
     image:
-      src: /images/fpo-shapes.png
+      src: /images/vadim-bogulov-AWuHrB1oM_o-unsplash.jpg
       alt: Stackbit Shapes
     button:
       type: button
